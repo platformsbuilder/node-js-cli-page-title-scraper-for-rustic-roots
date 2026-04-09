@@ -1,0 +1,8 @@
+{
+  "name": "rustic-roots-title-scraper",
+  "version": "1.0.0",
+  "bin": {
+    "rrt": "index.js"
+  },
+  "type": "module"
+}
